@@ -1,8 +1,6 @@
 # Welcome to My GitHub Profile!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NaduniTashana)
-![GitHub repo size](https://img.shields.io/github/repo-size/NaduniTashana/NaduniTashana)
-![GitHub top language](https://img.shields.io/github/languages/top/NaduniTashana/NaduniTashana)
 
 ## My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaduniTashana&show_icons=true)
