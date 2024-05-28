@@ -7,9 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaduniTashana&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="300" alt="Coding Animation"/>
-</p>
+
 
 
 ## About Me
