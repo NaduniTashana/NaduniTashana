@@ -1,6 +1,15 @@
 # Welcome to My GitHub Profile!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NaduniTashana)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NaduniTashana&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaduniTashana&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaduniTashana&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="500" alt="Coding Animation"/>
+</p>
 
 ## My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaduniTashana&show_icons=true)
