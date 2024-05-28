@@ -8,12 +8,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="500" alt="Coding Animation"/>
+  <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="300" alt="Coding Animation"/>
 </p>
 
-## My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaduniTashana&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaduniTashana&layout=compact)
 
 ## About Me
 - 🌱 I’m currently undergraduate in Software Engineering,3rd year
