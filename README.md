@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile!
+# HI! I'm Naduni Tashana...Welcome to My GitHub Profile!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NaduniTashana)
 <p align="center">
